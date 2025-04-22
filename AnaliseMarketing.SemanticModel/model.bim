@@ -1,0 +1,3566 @@
+{
+  "compatibilityLevel": 1567,
+  "model": {
+    "annotations": [
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"DadosMarketing\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.138.1452.0 (24.11)"
+      },
+      {
+        "name": "PBI_ProTooling",
+        "value": "[\"DevMode\"]"
+      }
+    ],
+    "culture": "pt-BR",
+    "cultures": [
+      {
+        "name": "pt-BR",
+        "linguisticMetadata": {
+          "content": {
+            "Entities": {
+              "dados_marketing": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dados marketing": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "dado marketing": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  },
+                  {
+                    "DadosMarketing": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.99
+                    }
+                  },
+                  {
+                    "marketing": {
+                      "State": "Generated",
+                      "Weight": 0.97
+                    }
+                  },
+                  {
+                    "dado promotion": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "dado presentation": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.5
+                    }
+                  },
+                  {
+                    "promotion": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "presentation": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.491
+                    }
+                  },
+                  {
+                    "dado advertising": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dado selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "dado publicizing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.485
+                    }
+                  },
+                  {
+                    "advertising": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "selling": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  },
+                  {
+                    "publicizing": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.476
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.ID": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "ID"
+                  }
+                },
+                "NameType": "Identifier",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "ID": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "identification": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "identity": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.736
+                    }
+                  },
+                  {
+                    "credential": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.714
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.adolescentes_em_casa": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Adolescentes em Casa"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "adolescentes em casa": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "adolescente em casa": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.ano_nascimento": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Ano Nascimento"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "ano nascimento": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.compra_na_campanha_1": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Compra na Campanha 1"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "compra na campanha 1": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.compra_na_campanha_2": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Compra na Campanha 2"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "compra na campanha 2": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.compra_na_campanha_3": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Compra na Campanha 3"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "compra na campanha 3": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.compra_na_campanha_4": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Compra na Campanha 4"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "compra na campanha 4": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.compra_na_campanha_5": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Compra na Campanha 5"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "compra na campanha 5": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.comprou": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Comprou"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "comprou": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.data_cadastro": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Data Cadastro"
+                  }
+                },
+                "SemanticType": "Time",
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "data cadastro": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "date": {
+                      "State": "Generated",
+                      "Weight": 0.7
+                    }
+                  },
+                  {
+                    "information cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "fact cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "info cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "statistic cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.6
+                    }
+                  },
+                  {
+                    "document cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "figure cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "record cadastro": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.data_cadastro.variation.hierarquia_de_data": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "Hierarchy": "Hierarquia de datas",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Data Cadastro"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "hierarquia de data": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "hierarquia de information": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "hierarquia de fact": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "hierarquia de info": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "hierarquia de statistic": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.762
+                    }
+                  },
+                  {
+                    "hierarquia de document": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.739
+                    }
+                  },
+                  {
+                    "hierarquia de figure": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.739
+                    }
+                  },
+                  {
+                    "hierarquia de record": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.739
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "Hierarchy": "Hierarquia de datas",
+                    "HierarchyLevel": "Ano",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Data Cadastro"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "ano": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "data cadastro ano": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "information cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "fact cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "info cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "statistic cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "document cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "figure cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "record cadastro ano": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "Hierarchy": "Hierarquia de datas",
+                    "HierarchyLevel": "Dia",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Data Cadastro"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dia": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "data cadastro dia": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "information cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "fact cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "info cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "statistic cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "document cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "figure cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "record cadastro dia": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "Hierarchy": "Hierarquia de datas",
+                    "HierarchyLevel": "Mês",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Data Cadastro"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "mê": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "data cadastro mê": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "information cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "fact cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "info cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "statistic cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "document cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "figure cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "record cadastro mê": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "Hierarchy": "Hierarquia de datas",
+                    "HierarchyLevel": "Trimestre",
+                    "VariationSet": "Variation",
+                    "VariationSource": "Data Cadastro"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "trimestre": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "data cadastro trimestre": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "information cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "fact cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "info cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "statistic cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.609
+                    }
+                  },
+                  {
+                    "document cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "figure cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  },
+                  {
+                    "record cadastro trimestre": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.591
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.dias_desde_ultima_compra": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Dias Desde Ultima Compra"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "dias desde ultima compra": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.escolaridade": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Escolaridade"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "escolaridade": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.estado_civil": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Estado Civil"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "estado civil": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.filhos_em_casa": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Filhos em Casa"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "filhos em casa": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "filho em casa": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  },
+                  {
+                    "Quantidade Filhos em Casa": {
+                      "Source": {
+                        "Agent": "PowerBI.VisualColumnRename",
+                        "Type": "External"
+                      },
+                      "State": "Suggested",
+                      "Weight": 0.9
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.gasto_com_alimento": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Gasto com Alimentos"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "gasto com alimento": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.gasto_com_brinquedo": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Gasto com Brinquedos"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "gasto com brinquedo": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.gasto_com_eletronico": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Gasto com Eletronicos"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "gasto com eletronico": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.gasto_com_moveis": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Gasto com Moveis"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "gasto com moveis": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.gasto_com_utilidade": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Gasto com Utilidades"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "gasto com utilidade": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.gasto_com_vestuario": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Gasto com Vestuario"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "gasto com vestuario": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.numero_de_compra_via_catalogo": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Numero de Compras via Catalogo"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "numero de compra via catalogo": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.numero_de_compras_com_desconto": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Numero de Compras com Desconto"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "numero de compras com desconto": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "numero de compra com desconto": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.numero_de_compras_na_loja": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Numero de Compras na Loja"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "numero de compras na loja": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "numero de compra na loja": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.numero_de_compras_na_web": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Numero de Compras na Web"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "numero de compras na web": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "numero de compra na web": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  },
+                  {
+                    "numero de compra na mesh": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na net": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na netting": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na network": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na trap": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na snare": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na tissue": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na grid": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.504
+                    }
+                  },
+                  {
+                    "numero de compra na confusion": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.494
+                    }
+                  },
+                  {
+                    "numero de compra na labyrinth": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.494
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.numero_visitas_WebSite_me": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Numero Visitas WebSite Mes"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "numero visitas WebSite me": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "numero visita WebSite me": {
+                      "State": "Generated",
+                      "Type": "Noun",
+                      "Weight": 0.78
+                    }
+                  },
+                  {
+                    "numero visita url me": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.771
+                    }
+                  },
+                  {
+                    "numero visita site me": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.748
+                    }
+                  },
+                  {
+                    "numero visita web address me": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.617
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.pais": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Pais"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "pais": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.salario_anual": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Salario Anual"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "salario anual": {
+                      "State": "Generated"
+                    }
+                  }
+                ]
+              },
+              "dados_marketing.total_gasto": {
+                "Definition": {
+                  "Binding": {
+                    "ConceptualEntity": "DadosMarketing",
+                    "ConceptualProperty": "Total Gasto"
+                  }
+                },
+                "State": "Generated",
+                "Terms": [
+                  {
+                    "total gasto": {
+                      "State": "Generated"
+                    }
+                  },
+                  {
+                    "aggregate gasto": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  },
+                  {
+                    "overall gasto": {
+                      "Source": {
+                        "Agent": "Thesaurus"
+                      },
+                      "State": "Suggested",
+                      "Type": "Noun",
+                      "Weight": 0.582
+                    }
+                  }
+                ]
+              }
+            },
+            "Language": "en-US",
+            "Relationships": {
+              "dados_marketing_data_cadastro_has_variation_hierarquia_de_data": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro"
+                      }
+                    },
+                    "ID": "data_cadastros_have_hierarquia_de_data",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_ano_has_dados_marketing_data_cadastro_variation_hierarquia_de_data_trimestre": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano"
+                      }
+                    },
+                    "ID": "anos_have_trimestres",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      }
+                    },
+                    "ID": "trimestres_have_anos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "ID": "trimestres_are_in_anos",
+                    "Preposition": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano"
+                      },
+                      "Prepositions": [
+                        {
+                          "in": {
+                            "State": "Generated"
+                          }
+                        }
+                      ],
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_has_ano": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                      }
+                    },
+                    "ID": "hierarquia_de_data_have_anos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.ano"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_has_dia": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                      }
+                    },
+                    "ID": "hierarquia_de_data_have_dias",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_has_mê": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                      }
+                    },
+                    "ID": "hierarquia_de_data_have_mê",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_has_trimestre": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                      }
+                    },
+                    "ID": "hierarquia_de_data_have_trimestres",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_mê_has_dados_marketing_data_cadastro_variation_hierarquia_de_data_dia": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      }
+                    },
+                    "ID": "mê_have_dias",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia"
+                      }
+                    },
+                    "ID": "dias_have_mê",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "ID": "dias_are_in_mê",
+                    "Preposition": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      },
+                      "Prepositions": [
+                        {
+                          "in": {
+                            "State": "Generated"
+                          }
+                        }
+                      ],
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.dia"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_data_cadastro_variation_hierarquia_de_data_trimestre_has_dados_marketing_data_cadastro_variation_hierarquia_de_data_mê": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      }
+                    },
+                    "ID": "trimestres_have_mê",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      }
+                    },
+                    "ID": "mê_have_trimestres",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "ID": "mê_are_in_trimestres",
+                    "Preposition": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                      },
+                      "Prepositions": [
+                        {
+                          "in": {
+                            "State": "Generated"
+                          }
+                        }
+                      ],
+                      "Subject": {
+                        "Role": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.mê"
+                    }
+                  },
+                  "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro.variation.hierarquia_de_data.trimestre"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_ID": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.ID"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_ID",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  },
+                  {
+                    "ID": "ID_are_names_IDs_of_dados_marketing",
+                    "Name": {
+                      "Name": {
+                        "Role": "dados_marketing.ID"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.ID": {
+                    "Target": {
+                      "Entity": "dados_marketing.ID"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_adolescentes_em_casa": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.adolescentes_em_casa"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_adolescentes_em_casas",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.adolescentes_em_casa": {
+                    "Target": {
+                      "Entity": "dados_marketing.adolescentes_em_casa"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_ano_nascimento": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.ano_nascimento"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_ano_nascimentos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.ano_nascimento": {
+                    "Target": {
+                      "Entity": "dados_marketing.ano_nascimento"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_compra_na_campanha_1": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.compra_na_campanha_1"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_compra_na_campanha_1",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.compra_na_campanha_1": {
+                    "Target": {
+                      "Entity": "dados_marketing.compra_na_campanha_1"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_compra_na_campanha_2": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.compra_na_campanha_2"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_compra_na_campanha_2",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.compra_na_campanha_2": {
+                    "Target": {
+                      "Entity": "dados_marketing.compra_na_campanha_2"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_compra_na_campanha_3": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.compra_na_campanha_3"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_compra_na_campanha_3",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.compra_na_campanha_3": {
+                    "Target": {
+                      "Entity": "dados_marketing.compra_na_campanha_3"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_compra_na_campanha_4": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.compra_na_campanha_4"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_compra_na_campanha_4",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.compra_na_campanha_4": {
+                    "Target": {
+                      "Entity": "dados_marketing.compra_na_campanha_4"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_compra_na_campanha_5": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.compra_na_campanha_5"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_compra_na_campanha_5",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.compra_na_campanha_5": {
+                    "Target": {
+                      "Entity": "dados_marketing.compra_na_campanha_5"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_comprou": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.comprou"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_comprous",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.comprou": {
+                    "Target": {
+                      "Entity": "dados_marketing.comprou"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_data_cadastro": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.data_cadastro"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_data_cadastros",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.data_cadastro": {
+                    "Target": {
+                      "Entity": "dados_marketing.data_cadastro"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_dias_desde_ultima_compra": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.dias_desde_ultima_compra"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_dias_desde_ultima_compras",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.dias_desde_ultima_compra": {
+                    "Target": {
+                      "Entity": "dados_marketing.dias_desde_ultima_compra"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_escolaridade": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.escolaridade"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_escolaridades",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.escolaridade": {
+                    "Target": {
+                      "Entity": "dados_marketing.escolaridade"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_estado_civil": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.estado_civil"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_estado_civil",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.estado_civil": {
+                    "Target": {
+                      "Entity": "dados_marketing.estado_civil"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_filhos_em_casa": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.filhos_em_casa"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_filhos_em_casas",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.filhos_em_casa": {
+                    "Target": {
+                      "Entity": "dados_marketing.filhos_em_casa"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_gasto_com_alimento": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.gasto_com_alimento"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_gasto_com_alimentos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.gasto_com_alimento": {
+                    "Target": {
+                      "Entity": "dados_marketing.gasto_com_alimento"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_gasto_com_brinquedo": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.gasto_com_brinquedo"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_gasto_com_brinquedos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.gasto_com_brinquedo": {
+                    "Target": {
+                      "Entity": "dados_marketing.gasto_com_brinquedo"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_gasto_com_eletronico": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.gasto_com_eletronico"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_gasto_com_eletronicos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.gasto_com_eletronico": {
+                    "Target": {
+                      "Entity": "dados_marketing.gasto_com_eletronico"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_gasto_com_moveis": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.gasto_com_moveis"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_gasto_com_moveises",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.gasto_com_moveis": {
+                    "Target": {
+                      "Entity": "dados_marketing.gasto_com_moveis"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_gasto_com_utilidade": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.gasto_com_utilidade"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_gasto_com_utilidades",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.gasto_com_utilidade": {
+                    "Target": {
+                      "Entity": "dados_marketing.gasto_com_utilidade"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_gasto_com_vestuario": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.gasto_com_vestuario"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_gasto_com_vestuarios",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.gasto_com_vestuario": {
+                    "Target": {
+                      "Entity": "dados_marketing.gasto_com_vestuario"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_numero_de_compra_via_catalogo": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.numero_de_compra_via_catalogo"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_numero_de_compra_via_catalogo",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.numero_de_compra_via_catalogo": {
+                    "Target": {
+                      "Entity": "dados_marketing.numero_de_compra_via_catalogo"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_numero_de_compras_com_desconto": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.numero_de_compras_com_desconto"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_numero_de_compras_com_descontos",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.numero_de_compras_com_desconto": {
+                    "Target": {
+                      "Entity": "dados_marketing.numero_de_compras_com_desconto"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_numero_de_compras_na_loja": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.numero_de_compras_na_loja"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_numero_de_compras_na_loja",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.numero_de_compras_na_loja": {
+                    "Target": {
+                      "Entity": "dados_marketing.numero_de_compras_na_loja"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_numero_de_compras_na_web": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.numero_de_compras_na_web"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_numero_de_compras_na_webs",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.numero_de_compras_na_web": {
+                    "Target": {
+                      "Entity": "dados_marketing.numero_de_compras_na_web"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_numero_visitas_WebSite_me": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.numero_visitas_WebSite_me"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_numero_visitas_WebSite_me",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.numero_visitas_WebSite_me": {
+                    "Target": {
+                      "Entity": "dados_marketing.numero_visitas_WebSite_me"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_pais": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.pais"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_paises",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.pais": {
+                    "Target": {
+                      "Entity": "dados_marketing.pais"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_salario_anual": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.salario_anual"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_salario_anuals",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.salario_anual": {
+                    "Target": {
+                      "Entity": "dados_marketing.salario_anual"
+                    }
+                  }
+                },
+                "State": "Generated"
+              },
+              "dados_marketing_has_total_gasto": {
+                "Binding": {
+                  "ConceptualEntity": "DadosMarketing"
+                },
+                "Phrasings": [
+                  {
+                    "Attribute": {
+                      "Object": {
+                        "Role": "dados_marketing.total_gasto"
+                      },
+                      "Subject": {
+                        "Role": "dados_marketing"
+                      }
+                    },
+                    "ID": "dados_marketing_have_total_gasto",
+                    "State": "Generated",
+                    "Weight": 0.99
+                  }
+                ],
+                "Roles": {
+                  "dados_marketing": {
+                    "Target": {
+                      "Entity": "dados_marketing"
+                    }
+                  },
+                  "dados_marketing.total_gasto": {
+                    "Target": {
+                      "Entity": "dados_marketing.total_gasto"
+                    }
+                  }
+                },
+                "State": "Generated"
+              }
+            },
+            "Version": "3.5.0"
+          },
+          "contentType": "json"
+        }
+      }
+    ],
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "relationships": [
+      {
+        "name": "a87fd934-a762-4581-b2e3-78891346b0a4",
+        "fromColumn": "Data Cadastro",
+        "fromTable": "DadosMarketing",
+        "joinOnDateBehavior": "datePartOnly",
+        "toColumn": "Date",
+        "toTable": "LocalDateTable_4daa11e2-ee6d-41a6-941a-dce04a8d3ce8"
+      }
+    ],
+    "sourceQueryCulture": "pt-BR",
+    "tables": [
+      {
+        "name": "DadosMarketing",
+        "annotations": [
+          {
+            "name": "PBI_ResultType",
+            "value": "Table"
+          },
+          {
+            "name": "PBI_NavigationStepName",
+            "value": "Navegação"
+          }
+        ],
+        "columns": [
+          {
+            "name": "ID",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "5608e47c-2370-4c23-ab71-4c6ff435f99e",
+            "sourceColumn": "ID",
+            "summarizeBy": "count"
+          },
+          {
+            "name": "Ano Nascimento",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "846f2d16-9585-473b-9e4e-50c8385434c5",
+            "sourceColumn": "Ano Nascimento",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Escolaridade",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "e2dc66ee-0850-4085-84ad-9a6d6911328c",
+            "sourceColumn": "Escolaridade",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Estado Civil",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "83ecdfba-6f26-4e50-b702-4b1000e0dd2f",
+            "sourceColumn": "Estado Civil",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Salario Anual",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "cece0b66-819e-4b4a-94a6-19df7096b033",
+            "sourceColumn": "Salario Anual",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Filhos em Casa",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "0f8e17a7-4960-4b75-8ef8-a6f6f3980fc5",
+            "sourceColumn": "Filhos em Casa",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Adolescentes em Casa",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "aca7da7f-6669-4b2f-b541-18568f7debe3",
+            "sourceColumn": "Adolescentes em Casa",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Data Cadastro",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              },
+              {
+                "name": "UnderlyingDateTimeDataType",
+                "value": "Date"
+              }
+            ],
+            "dataType": "dateTime",
+            "formatString": "Long Date",
+            "lineageTag": "f4b9ffd3-952d-40dd-ba15-cc28cee552c5",
+            "sourceColumn": "Data Cadastro",
+            "summarizeBy": "none",
+            "variations": [
+              {
+                "name": "Variation",
+                "defaultHierarchy": {
+                  "hierarchy": "Hierarquia de datas",
+                  "table": "LocalDateTable_4daa11e2-ee6d-41a6-941a-dce04a8d3ce8"
+                },
+                "isDefault": true,
+                "relationship": "a87fd934-a762-4581-b2e3-78891346b0a4"
+              }
+            ]
+          },
+          {
+            "name": "Dias Desde Ultima Compra",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "9f51d160-4351-4256-9c59-5f2c1e6fb344",
+            "sourceColumn": "Dias Desde Ultima Compra",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Gasto com Eletronicos",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "b67ddbbc-41fa-420a-8cc9-0cc7df33d9a7",
+            "sourceColumn": "Gasto com Eletronicos",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Gasto com Brinquedos",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "2afb53b6-7c20-4d1d-81e5-c6f1fc3538a6",
+            "sourceColumn": "Gasto com Brinquedos",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Gasto com Moveis",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "787ba930-4c88-46b8-b61b-e03f948b9b09",
+            "sourceColumn": "Gasto com Moveis",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Gasto com Utilidades",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "877735fe-dc7e-4fac-b36c-6e8cef288fd0",
+            "sourceColumn": "Gasto com Utilidades",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Gasto com Alimentos",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "22981f8e-e2b5-4ec4-8c8e-6acaf68a75f2",
+            "sourceColumn": "Gasto com Alimentos",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Gasto com Vestuario",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "9264ef27-d970-4689-9c55-be1a6f2e4eea",
+            "sourceColumn": "Gasto com Vestuario",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Numero de Compras com Desconto",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "d20958c8-6f2c-4f01-893a-382c1efa1dbd",
+            "sourceColumn": "Numero de Compras com Desconto",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Numero de Compras na Web",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "fe663f8a-eb01-4e55-b214-3b1b6dd98a28",
+            "sourceColumn": "Numero de Compras na Web",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Numero de Compras via Catalogo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "bb5a587e-2b02-4f16-ac66-61ed10c8e60b",
+            "sourceColumn": "Numero de Compras via Catalogo",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Numero de Compras na Loja",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "f0cb7ca6-9aad-48ee-8933-20bcb6f63996",
+            "sourceColumn": "Numero de Compras na Loja",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Numero Visitas WebSite Mes",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "437a55bd-119b-4534-b350-874574a67ae1",
+            "sourceColumn": "Numero Visitas WebSite Mes",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Compra na Campanha 1",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "e09bc992-9b38-46ba-8c03-53bf3af9dbe9",
+            "sourceColumn": "Compra na Campanha 1",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Compra na Campanha 2",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "3d6696ee-d684-4151-935f-d3d7a67e301b",
+            "sourceColumn": "Compra na Campanha 2",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Compra na Campanha 3",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "9d4d7294-5058-4bec-88ac-632c6cf35f7f",
+            "sourceColumn": "Compra na Campanha 3",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Compra na Campanha 4",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "16111f9f-c15a-42d3-9b03-47225ed3fd8f",
+            "sourceColumn": "Compra na Campanha 4",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Compra na Campanha 5",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "int64",
+            "formatString": "0",
+            "lineageTag": "72d9a7f9-528b-4f60-8135-642887ddd1de",
+            "sourceColumn": "Compra na Campanha 5",
+            "summarizeBy": "sum"
+          },
+          {
+            "name": "Comprou",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "b3198a8b-091f-4312-9256-087d564c6039",
+            "sourceColumn": "Comprou",
+            "summarizeBy": "none"
+          },
+          {
+            "name": "Pais",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ],
+            "dataType": "string",
+            "lineageTag": "b65de683-284e-4fe3-91ad-9d92f1894682",
+            "sourceColumn": "Pais",
+            "summarizeBy": "none"
+          }
+        ],
+        "lineageTag": "bb7aca81-ff09-4928-8b0b-20beac7bff74",
+        "measures": [
+          {
+            "name": "Total Gasto",
+            "expression": "SUMX(DadosMarketing, DadosMarketing[Gasto com Alimentos] + DadosMarketing[Gasto com Brinquedos] + DadosMarketing[Gasto com Eletronicos] + DadosMarketing[Gasto com Moveis] + DadosMarketing[Gasto com Utilidades] + DadosMarketing[Gasto com Vestuario])",
+            "formatString": "0",
+            "lineageTag": "09332686-3e38-455e-b091-0a3008f9ca92"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "DadosMarketing",
+            "mode": "import",
+            "source": {
+              "expression": [
+                "let",
+                "    Fonte = Csv.Document(File.Contents(\"C:\\Users\\bianq\\OneDrive\\Documentos\\Power BI Desktop\\DadosMarketing\\dados_marketing.csv\"),[Delimiter=\";\", Columns=27, Encoding=65001, QuoteStyle=QuoteStyle.None]),",
+                "    #\"Cabeçalhos Promovidos\" = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),",
+                "    #\"Tipo Alterado\" = Table.TransformColumnTypes(#\"Cabeçalhos Promovidos\",{{\"ID\", Int64.Type}, {\"Ano Nascimento\", Int64.Type}, {\"Escolaridade\", type text}, {\"Estado Civil\", type text}, {\"Salario Anual\", Int64.Type}, {\"Filhos em Casa\", Int64.Type}, {\"Adolescentes em Casa\", Int64.Type}, {\"Data Cadastro\", type date}, {\"Dias Desde Ultima Compra\", Int64.Type}, {\"Gasto com Eletronicos\", Int64.Type}, {\"Gasto com Brinquedos\", Int64.Type}, {\"Gasto com Moveis\", Int64.Type}, {\"Gasto com Utilidades\", Int64.Type}, {\"Gasto com Alimentos\", Int64.Type}, {\"Gasto com Vestuario\", Int64.Type}, {\"Numero de Compras com Desconto\", Int64.Type}, {\"Numero de Compras na Web\", Int64.Type}, {\"Numero de Compras via Catalogo\", Int64.Type}, {\"Numero de Compras na Loja\", Int64.Type}, {\"Numero Visitas WebSite Mes\", Int64.Type}, {\"Compra na Campanha 1\", Int64.Type}, {\"Compra na Campanha 2\", Int64.Type}, {\"Compra na Campanha 3\", Int64.Type}, {\"Compra na Campanha 4\", Int64.Type}, {\"Compra na Campanha 5\", Int64.Type}, {\"Comprou\", Int64.Type}, {\"Pais\", type text}}),",
+                "    #\"Linhas Classificadas\" = Table.Sort(#\"Tipo Alterado\",{{\"Salario Anual\", Order.Descending}}),",
+                "    #\"Linhas Superiores Removidas\" = Table.Skip(#\"Linhas Classificadas\",1),",
+                "    #\"Tipo Alterado1\" = Table.TransformColumnTypes(#\"Linhas Superiores Removidas\",{{\"Comprou\", type text}}),",
+                "    #\"Valor Substituído\" = Table.ReplaceValue(#\"Tipo Alterado1\",\"0\",\"Não\",Replacer.ReplaceText,{\"Comprou\"}),",
+                "    #\"Valor Substituído1\" = Table.ReplaceValue(#\"Valor Substituído\",\"1\",\"Sim\",Replacer.ReplaceText,{\"Comprou\"})",
+                "in",
+                "    #\"Valor Substituído1\""
+              ],
+              "type": "m"
+            }
+          }
+        ]
+      },
+      {
+        "name": "DateTableTemplate_6eb12294-0390-4917-95de-9d5779253315",
+        "annotations": [
+          {
+            "name": "__PBI_TemplateDateTable",
+            "value": "true"
+          },
+          {
+            "name": "DefaultItem",
+            "value": "DateHierarchy"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataCategory": "PaddedDateTableDates",
+            "dataType": "dateTime",
+            "formatString": "General Date",
+            "isHidden": true,
+            "isNameInferred": true,
+            "lineageTag": "81913156-2e37-4d63-91e0-cf514564c413",
+            "sourceColumn": "[Date]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Ano",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Year"
+              }
+            ],
+            "dataCategory": "Years",
+            "dataType": "int64",
+            "expression": "YEAR([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "4ea8c573-8491-4e0a-b91c-3b7061f5bd3b",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "MonthNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "MonthNumber"
+              }
+            ],
+            "dataCategory": "MonthOfYear",
+            "dataType": "int64",
+            "expression": "MONTH([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "e05f6445-8c50-49a6-84b8-11f391a23ee2",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Mês",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Month"
+              }
+            ],
+            "dataCategory": "Months",
+            "dataType": "string",
+            "expression": "FORMAT([Date], \"MMMM\")",
+            "isHidden": true,
+            "lineageTag": "0fb2d59a-c98d-48c8-ac0f-a3e97d454a3b",
+            "sortByColumn": "MonthNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "QuarterNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "QuarterNumber"
+              }
+            ],
+            "dataCategory": "QuarterOfYear",
+            "dataType": "int64",
+            "expression": "INT(([MonthNo] + 2) / 3)",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "8603f01b-fdb6-4658-88da-7952961fc4c3",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Trimestre",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Quarter"
+              }
+            ],
+            "dataCategory": "Quarters",
+            "dataType": "string",
+            "expression": "\"Qtr \" & [QuarterNo]",
+            "isHidden": true,
+            "lineageTag": "f3d08162-d71c-4245-9917-8c5f366ea438",
+            "sortByColumn": "QuarterNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Dia",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Day"
+              }
+            ],
+            "dataCategory": "DayOfMonth",
+            "dataType": "int64",
+            "expression": "DAY([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "2cc8647a-0c72-484b-aa2a-a928868e5a6c",
+            "summarizeBy": "none",
+            "type": "calculated"
+          }
+        ],
+        "hierarchies": [
+          {
+            "name": "Hierarquia de datas",
+            "annotations": [
+              {
+                "name": "TemplateId",
+                "value": "DateHierarchy"
+              }
+            ],
+            "levels": [
+              {
+                "name": "Ano",
+                "column": "Ano",
+                "lineageTag": "b95af204-ac64-47f1-a954-c6106c225566",
+                "ordinal": 0
+              },
+              {
+                "name": "Trimestre",
+                "column": "Trimestre",
+                "lineageTag": "9f506043-61ba-4684-a703-5b30f34f0320",
+                "ordinal": 1
+              },
+              {
+                "name": "Mês",
+                "column": "Mês",
+                "lineageTag": "932c7398-abf5-416d-85a4-d8db94e1ae9a",
+                "ordinal": 2
+              },
+              {
+                "name": "Dia",
+                "column": "Dia",
+                "lineageTag": "69cce018-fcb3-4bf1-905c-470f45715f98",
+                "ordinal": 3
+              }
+            ],
+            "lineageTag": "3eb98f05-928f-4103-bf46-482beccec91d"
+          }
+        ],
+        "isHidden": true,
+        "isPrivate": true,
+        "lineageTag": "dc71b96c-ae7e-4c69-8606-1b363804d5ac",
+        "partitions": [
+          {
+            "name": "DateTableTemplate_6eb12294-0390-4917-95de-9d5779253315",
+            "mode": "import",
+            "source": {
+              "expression": "Calendar(Date(2015,1,1), Date(2015,1,1))",
+              "type": "calculated"
+            }
+          }
+        ]
+      },
+      {
+        "name": "LocalDateTable_4daa11e2-ee6d-41a6-941a-dce04a8d3ce8",
+        "annotations": [
+          {
+            "name": "__PBI_LocalDateTable",
+            "value": "true"
+          }
+        ],
+        "columns": [
+          {
+            "name": "Date",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              }
+            ],
+            "dataCategory": "PaddedDateTableDates",
+            "dataType": "dateTime",
+            "formatString": "General Date",
+            "isHidden": true,
+            "isNameInferred": true,
+            "lineageTag": "caaf3e49-6b7f-48ce-be19-f8b1a38a01e9",
+            "sourceColumn": "[Date]",
+            "summarizeBy": "none",
+            "type": "calculatedTableColumn"
+          },
+          {
+            "name": "Ano",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Year"
+              }
+            ],
+            "dataCategory": "Years",
+            "dataType": "int64",
+            "expression": "YEAR([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "11d39132-e6d2-42be-b253-422302321d9c",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "MonthNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "MonthNumber"
+              }
+            ],
+            "dataCategory": "MonthOfYear",
+            "dataType": "int64",
+            "expression": "MONTH([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "dfd55b66-6364-4521-ba9e-e3b29806d379",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Mês",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Month"
+              }
+            ],
+            "dataCategory": "Months",
+            "dataType": "string",
+            "expression": "FORMAT([Date], \"MMMM\")",
+            "isHidden": true,
+            "lineageTag": "19ff2b0f-f019-4ffb-b1ad-b8e518483c11",
+            "sortByColumn": "MonthNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "QuarterNo",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "QuarterNumber"
+              }
+            ],
+            "dataCategory": "QuarterOfYear",
+            "dataType": "int64",
+            "expression": "INT(([MonthNo] + 2) / 3)",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "2e913a1f-f3dc-4e11-b7cc-7ec7406ed623",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Trimestre",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Quarter"
+              }
+            ],
+            "dataCategory": "Quarters",
+            "dataType": "string",
+            "expression": "\"Qtr \" & [QuarterNo]",
+            "isHidden": true,
+            "lineageTag": "9fdc4e4d-3f48-46eb-a0c3-8a0ad66c9184",
+            "sortByColumn": "QuarterNo",
+            "summarizeBy": "none",
+            "type": "calculated"
+          },
+          {
+            "name": "Dia",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "User"
+              },
+              {
+                "name": "TemplateId",
+                "value": "Day"
+              }
+            ],
+            "dataCategory": "DayOfMonth",
+            "dataType": "int64",
+            "expression": "DAY([Date])",
+            "formatString": "0",
+            "isHidden": true,
+            "lineageTag": "e941c9df-42f5-48a9-9638-663a24414e50",
+            "summarizeBy": "none",
+            "type": "calculated"
+          }
+        ],
+        "hierarchies": [
+          {
+            "name": "Hierarquia de datas",
+            "annotations": [
+              {
+                "name": "TemplateId",
+                "value": "DateHierarchy"
+              }
+            ],
+            "levels": [
+              {
+                "name": "Ano",
+                "column": "Ano",
+                "lineageTag": "205464f0-7b4f-4d35-a125-6434c93ed223",
+                "ordinal": 0
+              },
+              {
+                "name": "Trimestre",
+                "column": "Trimestre",
+                "lineageTag": "37f9e767-f62d-464b-b804-11b9898ad322",
+                "ordinal": 1
+              },
+              {
+                "name": "Mês",
+                "column": "Mês",
+                "lineageTag": "d83bd03f-b3fc-436b-b312-f6bc2888bcf2",
+                "ordinal": 2
+              },
+              {
+                "name": "Dia",
+                "column": "Dia",
+                "lineageTag": "3b370d88-3a77-4cef-87dc-dcdf02e2a8e8",
+                "ordinal": 3
+              }
+            ],
+            "lineageTag": "b8fec581-d739-4862-a661-eb6cc81b125b"
+          }
+        ],
+        "isHidden": true,
+        "lineageTag": "16fa2da5-92d6-47e1-abe3-858365e3d341",
+        "partitions": [
+          {
+            "name": "LocalDateTable_4daa11e2-ee6d-41a6-941a-dce04a8d3ce8",
+            "mode": "import",
+            "source": {
+              "expression": "Calendar(Date(Year(MIN('DadosMarketing'[Data Cadastro])), 1, 1), Date(Year(MAX('DadosMarketing'[Data Cadastro])), 12, 31))",
+              "type": "calculated"
+            }
+          }
+        ],
+        "showAsVariationsOnly": true
+      }
+    ]
+  }
+}
